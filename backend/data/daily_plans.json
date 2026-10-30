@@ -1,0 +1,367 @@
+{
+  "자바기반응용프로그래밍": {
+    "plan_title": "자바 시작하기: Chapter 1 핵심 개념 1일 완성 플랜",
+    "days": [
+      {
+        "day": 1,
+        "subjects": [
+          {
+            "subject": "자바기반응용프로그래밍",
+            "emoji": "☕",
+            "topic": "Chapter 1 - 자바 시작 (출현 배경, WORA, 개발환경)",
+            "concepts": [
+              "저급언어 vs 고급언어",
+              "기계어",
+              "어셈블리어",
+              "컴파일(Compile)",
+              "플랫폼 종속성",
+              "그린 프로젝트",
+              "James Gosling",
+              "오크(OAK)",
+              "WORA",
+              "바이트 코드",
+              "JVM",
+              "클래스 로더",
+              "JDK",
+              "JRE",
+              "Java API",
+              "패키지(package)",
+              "javac",
+              "java 명령어",
+              "javadoc",
+              "jar"
+            ],
+            "practice": "1) 자바와 C/C++의 컴파일-실행 과정을 그림으로 직접 그려 비교하기\n   (소스파일 → 컴파일 → 바이트코드/기계어 → 실행)\n2) 아래 개념을 표로 정리해보기:\n   구분 | 자바 | C/C++\n   소스 확장자 | .java | .c/.cpp\n   중간 산출물 | .class | .obj\n   최종 실행 | JVM이 바이트코드 실행 | .exe 실행파일\n   링크 과정 | 없음(동적 로딩) | 있음(정적/동적 링크)\n3) 간단한 Hello.java 파일을 만들어 javac로 컴파일 후 java 명령으로 직접 실행해보기\n4) JDK 설치 디렉터리(bin, lib, jmods 등)를 실제로 열어보고 각 폴더 역할 확인하기\n5) 배운 용어(WORA, JVM, 바이트코드, JDK/JRE 차이)를 백지에 설명해보는 셀프 테스트 진행"
+          }
+        ],
+        "date": "8월 30일"
+      }
+    ]
+  },
+  "논리회로": {
+    "plan_title": "논리회로 중간고사 대비 10일 완성 플랜 (Chap1~4,6,9)",
+    "days": [
+      {
+        "day": 1,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap1 기초 개념",
+            "concepts": [
+              "디지털 시스템",
+              "아날로그 시스템",
+              "논리 레벨",
+              "펄스 파형",
+              "디지털 신호 vs 아날로그 신호"
+            ],
+            "practice": "디지털 vs 아날로그 시스템 예시 5개씩 찾아 표로 정리하기"
+          }
+        ],
+        "date": "8월 30일"
+      },
+      {
+        "day": 2,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap2 수 체계와 코드",
+            "concepts": [
+              "2진수",
+              "8진수",
+              "16진수",
+              "진법 변환",
+              "BCD 코드",
+              "Gray 코드",
+              "ASCII 코드"
+            ],
+            "practice": "10진수 25, 128을 2/8/16진수로 변환하고 BCD·Gray code로 각각 표현해보기"
+          }
+        ],
+        "date": "8월 31일"
+      },
+      {
+        "day": 3,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap3 논리회로의 묘사 (1) - 기본 게이트와 부울대수",
+            "concepts": [
+              "AND",
+              "OR",
+              "NOT",
+              "NAND",
+              "NOR",
+              "XOR",
+              "XNOR",
+              "부울대수 기본 법칙"
+            ],
+            "practice": "기본 게이트 6종의 진리표를 직접 작성하고 드모르간 법칙 예제 3문제 풀기"
+          }
+        ],
+        "date": "9월 1일"
+      },
+      {
+        "day": 4,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap3 논리회로의 묘사 (2) - 논리식과 회로도 변환",
+            "concepts": [
+              "논리식",
+              "회로도 변환",
+              "진리표 작성",
+              "SOP",
+              "POS"
+            ],
+            "practice": "주어진 논리식 3개를 게이트 회로도로 직접 그려보기"
+          }
+        ],
+        "date": "9월 2일"
+      },
+      {
+        "day": 5,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap4 조합논리회로 (1) - K-map 최소화",
+            "concepts": [
+              "카르노맵",
+              "최소항",
+              "그룹핑",
+              "돈케어 조건",
+              "SOP 최소화"
+            ],
+            "practice": "4변수 카르노맵 문제 4개를 직접 그려서 최소 SOP식 도출하기"
+          }
+        ],
+        "date": "9월 3일"
+      },
+      {
+        "day": 6,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap4 조합논리회로 (2) - Quine-McCluskey 최소화",
+            "concepts": [
+              "Quine-McCluskey 표",
+              "최소항 그룹화",
+              "필수 주항",
+              "다변수 최소화"
+            ],
+            "practice": "5변수 이상 논리식 하나를 Quine-McCluskey 방식으로 손으로 최소화해보기"
+          }
+        ],
+        "date": "9월 4일"
+      },
+      {
+        "day": 7,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap6 디지털 산술 - 가산기와 감산기",
+            "concepts": [
+              "반가산기",
+              "전가산기",
+              "2의 보수",
+              "1의 보수",
+              "감산 회로",
+              "오버플로우"
+            ],
+            "practice": "반가산기·전가산기 진리표 작성 후 회로도로 직접 설계하기"
+          }
+        ],
+        "date": "9월 5일"
+      },
+      {
+        "day": 8,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "Chap9 MSI 논리회로 - 디코더/인코더/멀티플렉서",
+            "concepts": [
+              "디코더",
+              "인코더",
+              "멀티플렉서",
+              "디멀티플렉서",
+              "우선순위 인코더"
+            ],
+            "practice": "4:1 멀티플렉서와 2:4 디코더 진리표를 각각 작성하고 블록도 그려보기"
+          }
+        ],
+        "date": "9월 6일"
+      },
+      {
+        "day": 9,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "전체 범위 문제풀이 (Chap1,2,3,4,6,9 통합)",
+            "concepts": [
+              "수 체계 변환 문제",
+              "부울대수 간소화",
+              "K-map 응용 문제",
+              "가산기 설계 문제",
+              "MSI 회로 문제"
+            ],
+            "practice": "챕터별 연습문제를 시간 재며 20문제 풀고 틀린 부분 표시하기"
+          }
+        ],
+        "date": "9월 7일"
+      },
+      {
+        "day": 10,
+        "subjects": [
+          {
+            "subject": "논리회로",
+            "emoji": "🔌",
+            "topic": "모의고사 및 총복습",
+            "concepts": [
+              "오답 노트",
+              "취약 개념 재정리",
+              "핵심 공식 요약",
+              "시험 시간 배분 전략"
+            ],
+            "practice": "실전처럼 모의고사 1회 풀이 후 오답 원인 분석 및 핵심 개념 요약노트 작성하기"
+          }
+        ],
+        "date": "9월 8일"
+      }
+    ]
+  },
+  "시스템프로그래밍": {
+    "plan_title": "시스템프로그래밍 Chapter 1: A Tour of Computer Systems 3일 완성 플랜",
+    "days": [
+      {
+        "day": 1,
+        "subjects": [
+          {
+            "subject": "시스템프로그래밍",
+            "emoji": "💻",
+            "topic": "정보의 표현과 컴파일 시스템 동작 원리 (선행학습)",
+            "concepts": [
+              "bits + context",
+              "ASCII text file vs binary file",
+              "preprocessing (cpp)",
+              "compilation (cc1)",
+              "assembly (as)",
+              "linkage (ld)",
+              "hello.c → hello.i → hello.s → hello.o → hello",
+              "ELF (Executable and Linkable Format)"
+            ],
+            "practice": "gcc -E test.c -o test.i 실행 후 결과 확인\ngcc -S test.c 실행 후 test.s 어셈블리 코드 확인\ngcc -c test.c 실행 후 objdump -d test.o 로 디스어셈블 결과 확인\nobjdump -t test.o 로 심볼 테이블 확인 (printf가 *UND*로 표시되는 이유 이해)"
+          }
+        ],
+        "date": "8월 30일"
+      },
+      {
+        "day": 2,
+        "subjects": [
+          {
+            "subject": "시스템프로그래밍",
+            "emoji": "💻",
+            "topic": "실행 과정, 하드웨어 구조, 메모리 계층 (선행학습 + 문제풀이)",
+            "concepts": [
+              "shell (command-line interpreter)",
+              "HW organization of a typical system",
+              "CPU register file, ALU, PC(Program Counter)",
+              "system bus, memory bus, I/O bus",
+              "physical control flow (instruction fetch-decode-execute)",
+              "interrupt request bit",
+              "SRAM vs DRAM",
+              "cache hierarchy 및 access time 차이 (locality 개념 포함)",
+              "volatile vs non-volatile memory",
+              "레지스터가 필요한 이유 (메모리 접근 최소화)"
+            ],
+            "practice": "readelf -h hello 명령으로 ELF 헤더 구조 직접 확인\nCPU-Cache-Memory-Disk 접근 시간(0.5ns~7ms) 비교표를 직접 그려보며 왜 캐시가 중요한지 설명해보기\nSlide 13 Quiz 문항(preprocessing~linkage 빈칸 채우기) 스스로 풀어보기"
+          }
+        ],
+        "date": "8월 31일"
+      },
+      {
+        "day": 3,
+        "subjects": [
+          {
+            "subject": "시스템프로그래밍",
+            "emoji": "💻",
+            "topic": "Chapter 1 총복습 및 모의고사 대비",
+            "concepts": [
+              "컴파일 4단계 전체 흐름 재정리",
+              "symbol resolution vs relocation",
+              "object file 종류 (relocatable vs executable)",
+              "objdump / readelf / nm 도구 용도 구분",
+              "HW 구성요소별 역할 (CPU, Memory, I/O device)",
+              "메모리 계층 속도 비교 (SRAM/DRAM/Disk)",
+              "CS:APP 5개 코스 로드맵에서 SP 과목 커버 범위 (Ch1,2,6,7,8,9,10,11,12)"
+            ],
+            "practice": "Slide 13 Quiz 전체 다시 풀며 빈칸(directives, machine language file, symbol table, symbol resolution, relocation, ELF) 스스로 채우기\n백지에 hello.c 실행 전체 파이프라인(소스→실행파일)을 화살표로 그려 설명하는 모의시험 문제 만들어 풀어보기\n헷갈렸던 개념(심볼 테이블, 링킹 단계) 요약 노트 작성"
+          }
+        ],
+        "date": "9월 1일"
+      }
+    ]
+  },
+  "컴퓨터기반 선형대수": {
+    "plan_title": "선형시스템(Linear Systems) 2일 완성 플랜",
+    "days": [
+      {
+        "day": 1,
+        "subjects": [
+          {
+            "subject": "컴퓨터기반 선형대수",
+            "emoji": "📐",
+            "topic": "선형방정식과 연립선형방정식의 기초 개념",
+            "concepts": [
+              "linear equation",
+              "system of linear equations",
+              "solution set",
+              "consistent",
+              "inconsistent",
+              "indeterminate",
+              "unique solution",
+              "infinitely many solutions",
+              "no solution",
+              "equivalent systems",
+              "row operation I/II/III"
+            ],
+            "practice": "1) 2변수·3변수 선형방정식을 직접 그래프로 그려보기\n2) 슬라이드12 practice 문제 (a),(b)의 두 시스템이 equivalent인지 직접 행 연산으로 확인해보기\n3) 임의의 3원 연립방정식을 만들어 R1↔R2, kR1, kR1+R2 세 가지 연산을 순서대로 적용해보기"
+          }
+        ],
+        "date": "8월 30일"
+      },
+      {
+        "day": 2,
+        "subjects": [
+          {
+            "subject": "컴퓨터기반 선형대수",
+            "emoji": "📐",
+            "topic": "행렬을 이용한 선형시스템 풀이 및 실전 문제풀이",
+            "concepts": [
+              "coefficient matrix",
+              "constant vector",
+              "Ax=b",
+              "augmented matrix",
+              "pivot",
+              "pivot column",
+              "row echelon form (REF)",
+              "reduced row echelon form (RREF)",
+              "Gaussian elimination",
+              "back-substitution",
+              "Gauss-Jordan elimination"
+            ],
+            "practice": "1) 슬라이드21 practice (a)~(d) 행렬이 REF/RREF인지 스스로 판별해보기\n2) 슬라이드23~24의 3원 연립방정식을 손으로 처음부터 끝까지 Gaussian elimination + back-substitution으로 풀어보기\n3) 같은 문제를 Gauss-Jordan elimination으로도 풀어 두 방법의 결과가 같은지 비교하기\n4) 임의의 3x3 연립방정식을 만들어 (A|b) 첨가행렬로 표현 후 RREF까지 직접 계산해보는 모의고사식 연습"
+          }
+        ],
+        "date": "8월 31일"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-ink: #101415;
+  --color-panel: #181c1e;
+  --color-panel-border: #2a3033;
+  --color-blue: #0566d9;
+  --color-blue-bright: #2e7fea;
+  --color-emerald: #4edea3;
+  --color-coral: #ef6461;
+  --color-text-primary: #e0e3e5;
+  --color-text-muted: #8a929a;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+}
+
+/* highlight.js 테마(atom-one-dark)의 자체 배경을 지워서 우리 다크 팔레트(--color-ink)와
+   섞이지 않고 코드 블록 컨테이너의 배경을 그대로 쓰게 한다. */
+.hljs {
+  background: transparent !important;
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "timestamp": "2026-08-30T00:37:17",
+    "type": "daily_plan_generated",
+    "title": "복학 전 2일 완성! 전공 4과목 핵심 개념 예습 & 감잡기 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T00:39:36",
+    "type": "quiz_graded",
+    "title": "퀴즈: 논리회로",
+    "xp_delta": 30
+  },
+  {
+    "timestamp": "2026-08-30T15:46:34",
+    "type": "daily_plan_generated",
+    "title": "복학 전 2일 예습 플랜: 시스템 프로그래밍 & 논리회로 기초 다지기",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T15:48:17",
+    "type": "quiz_graded",
+    "title": "퀴즈: 논리회로",
+    "xp_delta": 10
+  },
+  {
+    "timestamp": "2026-08-30T16:09:37",
+    "type": "daily_plan_generated",
+    "title": "복학 전 2일 완성: 시스템 프로그래밍 & 논리회로 전체 흐름 잡기",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T16:23:49",
+    "type": "quiz_graded",
+    "title": "퀴즈: 논리회로",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T16:40:18",
+    "type": "daily_plan_generated",
+    "title": "복학 전 2일 완성! 시스템 프로그래밍 & 논리회로 기초 다지기 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T16:44:50",
+    "type": "quiz_graded",
+    "title": "퀴즈: Day 1 (8월 30일) · Bits, Bytes, Integers 기초",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T17:12:43",
+    "type": "lecture_analysis_generated",
+    "title": "자바 클래스와 객체 - 객체지향 프로그래밍의 핵심 개념",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T17:23:15",
+    "type": "lecture_analysis_generated",
+    "title": "자바 기초 문법과 객체지향 상속 개념을 중심으로 한 중간고사 대비 자료",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T17:26:12",
+    "type": "lecture_analysis_generated",
+    "title": "자바 중간고사 기출문제 분석 - 자바의 기본 개념과 상속 활용",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T17:35:42",
+    "type": "lecture_analysis_generated",
+    "title": "Chapter 4: 클래스와 객체 - 자바 객체지향 프로그래밍의 기초",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T17:53:36",
+    "type": "lecture_analysis_generated",
+    "title": "객체지향 프로그래밍의 3대 특성과 자바 클래스/객체의 기본 구조 이해",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T18:37:11",
+    "type": "lecture_analysis_generated",
+    "title": "자바 클래스와 객체 기초 - 캡슐화·상속·다형성 및 생성자 개념",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T18:53:31",
+    "type": "daily_plan_generated",
+    "title": "복학 전 4일 완성! 시스템프로그래밍 & 논리회로 중간고사 범위 선행 학습 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T18:57:22",
+    "type": "daily_plan_generated",
+    "title": "복학 전 5일 준비 플랜: 논리회로 선행학습 + 진로 방향 탐색",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:08:53",
+    "type": "daily_plan_generated",
+    "title": "논리회로 중간고사 대비 5일 완성 플랜 (Chap 1~4, 6, 9)",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:08:58",
+    "type": "daily_plan_generated",
+    "title": "논리회로 중간고사 대비 5일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:21:28",
+    "type": "daily_plan_generated",
+    "title": "자바기반응용프로그래밍 중간고사 대비 5일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:27:37",
+    "type": "daily_plan_generated",
+    "title": "자바기반응용프로그래밍 중간고사 대비 5일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:27:51",
+    "type": "daily_plan_generated",
+    "title": "중간고사 대비 자바기반응용프로그래밍 5일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:29:48",
+    "type": "daily_plan_generated",
+    "title": "논리회영 중간고사 대비 5일 완성 플랜 (기초개념~MSI 논리회로)",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:34:46",
+    "type": "daily_plan_generated",
+    "title": "논리회로 중간고사 대비 5일 완성 플랜 (Chap 1~9 기초·조합회로 중심)",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:35:07",
+    "type": "daily_plan_generated",
+    "title": "논리회로 중간고사 대비 10일 완성 플랜 (Chap1~4,6,9)",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-08-30T19:36:20",
+    "type": "daily_plan_generated",
+    "title": "자바기반응용프로그래밍 중간고사 대비 10일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-01T14:16:29",
+    "type": "daily_plan_generated",
+    "title": "시스템프로그래밍 15일 완성: 컴퓨터 시스템 개요부터 프로시저·스택까지",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-01T16:35:04",
+    "type": "daily_plan_generated",
+    "title": "시스템프로그래밍 Chapter 1: A Tour of Computer Systems 3일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-01T17:01:15",
+    "type": "lecture_analysis_generated",
+    "title": "컴퓨터 시스템 개관: hello.c의 컴파일부터 실행까지",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-01T19:42:50",
+    "type": "quiz_graded",
+    "title": "퀴즈: 컴퓨터 시스템 개관: hello.c의 컴파일부터 실행까지",
+    "xp_delta": 60
+  },
+  {
+    "timestamp": "2026-09-01T19:59:18",
+    "type": "quiz_graded",
+    "title": "퀴즈: 컴퓨터 시스템 개관: hello.c의 컴파일부터 실행까지",
+    "xp_delta": 70
+  },
+  {
+    "timestamp": "2026-09-01T20:50:34",
+    "type": "quiz_graded",
+    "title": "기출문제 복습: hello.c의 컴파일부터 실행까지 개념 이해 퀴즈",
+    "xp_delta": 80
+  },
+  {
+    "timestamp": "2026-09-01T20:50:58",
+    "type": "quiz_graded",
+    "title": "오답노트 복습: hello.c의 컴파일부터 실행까지 개념 이해 퀴즈",
+    "xp_delta": 10
+  },
+  {
+    "timestamp": "2026-09-01T20:51:01",
+    "type": "quiz_graded",
+    "title": "오답노트 복습: hello.c의 컴파일부터 실행까지 개념 이해 퀴즈",
+    "xp_delta": 10
+  },
+  {
+    "timestamp": "2026-09-02T18:42:14",
+    "type": "lecture_analysis_generated",
+    "title": "자바 개론: 태동 배경부터 WORA, JVM, JDK/JRE 구조까지",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-02T18:53:38",
+    "type": "daily_plan_generated",
+    "title": "자바 시작하기: Chapter 1 핵심 개념 1일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-02T19:05:48",
+    "type": "quiz_graded",
+    "title": "퀴즈: 자바기반응용프로그래밍",
+    "xp_delta": 70
+  },
+  {
+    "timestamp": "2026-09-02T22:32:06",
+    "type": "step_completed",
+    "title": "자바기반응용프로그래밍 · Day 1 (8월 30일) · Chapter 1 - 자바 시작 (출현 배경, WORA, 개발환경) 완료",
+    "xp_delta": 20
+  },
+  {
+    "timestamp": "2026-09-02T22:37:09",
+    "type": "quiz_graded",
+    "title": "기출문제 복습: 자바 시작 - 개념 이해 퀴즈",
+    "xp_delta": 90
+  },
+  {
+    "timestamp": "2026-09-02T22:37:44",
+    "type": "quiz_graded",
+    "title": "기출문제 복습: 자바 시작 - 개념 이해 퀴즈",
+    "xp_delta": 100
+  },
+  {
+    "timestamp": "2026-09-02T22:44:02",
+    "type": "quiz_graded",
+    "title": "기출문제 복습: 자바 기초 - 출현 배경과 WORA, 개발환경 모의고사",
+    "xp_delta": 110
+  },
+  {
+    "timestamp": "2026-09-04T21:31:55",
+    "type": "lecture_analysis_generated",
+    "title": "선형대수학 기초: 집합·수체계·사상·벡터·행렬 입문",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-09T00:07:43",
+    "type": "lecture_analysis_generated",
+    "title": "선형대수학 개론: 기초 수학 개념부터 벡터·행렬 정의까지",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-10T01:17:30",
+    "type": "daily_plan_generated",
+    "title": "선형시스템(Linear Systems) 2일 완성 플랜",
+    "xp_delta": 0
+  },
+  {
+    "timestamp": "2026-09-10T01:18:14",
+    "type": "step_completed",
+    "title": "컴퓨터기반 선형대수 · Day 1 (8월 30일) · 선형방정식과 연립선형방정식의 기초 개념 완료",
+    "xp_delta": 20
+  },
+  {
+    "timestamp": "2026-09-10T01:22:22",
+    "type": "lecture_analysis_generated",
+    "title": "선형방정식과 선형시스템: 동치, REF/RREF, 가우스(-조던) 소거법",
+    "xp_delta": 0
+  }
+]
